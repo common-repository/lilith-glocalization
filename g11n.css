@@ -1,0 +1,7 @@
+.g11n-show {
+	display: block !important;
+}
+.g11n-hidden {
+	display: none !important;
+	visibility: hidden !important;
+}
